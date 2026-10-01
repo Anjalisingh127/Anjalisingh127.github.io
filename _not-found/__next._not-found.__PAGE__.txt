@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[8191,[],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[8191,[],"ViewportBoundary"]
+8:I[8191,[],"MetadataBoundary"]
+9:I[1918,[],"IconMark"]
+b:I[8934,[],""]
+c:I[5308,[],""]
+:HL["/_next/static/css/c8b22bff4a481f1e.css","style"]
+6:X
+e:X
+e:C
+0:{"buildId":"8QPvD7vbT3k48-EaVHgUQ","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"container not-found","children":[["$","p",null,{"className":"kicker","children":"404 / PAGE NOT FOUND"}],["$","h1",null,{"children":["That page isn’t here",["$","span",null,{"children":"."}]]}],["$","p",null,{"children":"The project may have moved. Return to the work index to browse all five case studies."}],["$","a",null,{"className":"button primary","href":"/#work","children":"View projects"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Anjali Singh | Backend Software Engineer"}],["$","meta","1",{"name":"description","content":"Anjali Singh builds Spring Boot APIs, Python testing and reliability tools, and full-stack applications. Explore architecture, live projects and measured validation."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$L9","4",{}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c8b22bff4a481f1e.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}],"notFound":[["$","main",null,{"className":"container not-found","children":[["$","p",null,{"className":"kicker","children":"404 / PAGE NOT FOUND"}],["$","h1",null,{"children":["That page isn’t here",["$","span",null,{"children":"."}]]}],["$","p",null,{"children":"The project may have moved. Return to the work index to browse all five case studies."}],["$","a",null,{"className":"button primary","href":"/#work","children":"View projects"}]]}],[]]}]}]}]]}],"isPartial":"$@f","staleTime":"$6","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+4:null
+6:300
+11:true
+6:C
+10:0
+a:"$undefined"
+d:"$undefined"
+f:"$undefined"
+5:"$undefined"
